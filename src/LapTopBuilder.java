@@ -1,5 +1,5 @@
 public class LapTopBuilder {
-    private  String os;
+    private  final String os;
     private final int ram;
     private final String processer;
     private final String brand;
